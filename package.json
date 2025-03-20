@@ -1,0 +1,15 @@
+{
+  "name": "zmpython",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.py",
+  "scripts": {
+    "start": "python app.py",
+    "ia": "python ia.py",
+    "ds": "python ds.py"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
