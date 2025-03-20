@@ -11,7 +11,7 @@
 05. [Conversiones](#conversiones)
 06. [Operaciones Aritméticas](#operaciones-aritméticas)
 07. [Funciones](#funciones)
-08. [Programacion Orientada a Objetos](#programacion-orientada-a-objetos)
+08. [Programacion Orientada a Objetos](#programación-orientada-a-objetos)
 
 ## VARIABLES Y SUS TIPOS
 
