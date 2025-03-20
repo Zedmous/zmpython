@@ -1,23 +1,17 @@
-# GUÍA DE FORTRAN
+# GUÍA DE PYTHON
 
 # Índice de Contenidos
 
-1. [Variables y sus Tipos](#variables-y-sus-tipos)
-2. [Lectura y Escritura de datos](#lectura-y-escritura-de-datos)
-3. [Lectura y Escritura de Archivos](#lectura-y-escritura-de-archivos)
+01. [Variables y sus Tipos](#variables-y-sus-tipos)
+02. [Lectura y Escritura de datos](#lectura-y-escritura-de-datos)
+03. [Lectura y Escritura de Archivos](#lectura-y-escritura-de-archivos)
     - [Lectura y escritura de un archivo txt](#lectura-y-escritura-de-un-archivo-txt)
     - [Lectura y escritura de un archivo csv](#lectura-y-escritura-de-un-archivo-csv)
-4. [Estructuras de Datos](#estructuras-de-datos)
-    - [Estructuras Selectivas](#estructuras-selectivas)
-    - [Estructuras Repetitivas](#estructuras-repetitivas)
-3. [Operadores](#operadores)
-    - [Operadores Lógicos](#operadores-lógicos)
-    - [Operadores Comparativos](#operadores-comparativos)
-4. [Conversiones](#conversiones)
-5. [Operaciones Aritméticas](#operaciones-aritméticas)
-6. [Sistemas Numéricos](#sistemas-numéricos)
-7. [Puntos Flotantes](#puntos-flotantes)
-8. [Arreglos](#arreglos)
+04. [Operadores](#operadores)
+05. [Conversiones](#conversiones)
+06. [Operaciones Aritméticas](#operaciones-aritméticas)
+07. [Funciones](#funciones)
+08. [Programacion Orientada a Objetos](#programacion-orientada-a-objetos)
 
 ## VARIABLES Y SUS TIPOS
 
