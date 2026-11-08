@@ -1,17 +1,13 @@
 # 🐍 Guía Maestra & Laboratorios de Fundamentos de Python (`zmpython`)
 
 <p align="center">
-  <img src="./assets/portada_python_zedmous.png" alt="Portada Oficial Fundamentos de Python — ZEDMOUS.DEV" width="520" />
-</p>
-
-<p align="center">
-  <a href="https://zedmous.netlify.app/assets/docs/guia_fundamentos_python_zedmous.pdf"><img src="https://img.shields.io/badge/📄_Descargar_Guía_Maestra_PDF-ZEDMOUS.DEV-ef4444?style=for-the-badge" alt="Guía PDF" /></a>
+  <a href="https://drive.google.com/file/d/18L2RzAb22b1VBQu9TDvrlgQTWaFVlMyq/view?usp=sharing"><img src="https://img.shields.io/badge/📄_Ver_Guía_Maestra_PDF_(Google_Drive)-ZEDMOUS.DEV-ef4444?style=for-the-badge" alt="Guía PDF" /></a>
   <a href="https://zedmous.netlify.app"><img src="https://img.shields.io/badge/Portafolio-zedmous.netlify.app-38bdf8?style=for-the-badge" alt="Portafolio" /></a>
   <img src="https://img.shields.io/badge/UPP_IUJO-20_Horas_Académicas-10b981?style=for-the-badge" alt="UPP IUJO" />
 </p>
 
 > **Autoría & Cátedra:** **Ing. Eduardo Nieves (`Zedmous`)** — Arquitecto de Software & Matemático  
-> **Guía Oficial en PDF (9 Páginas):** [`docs/Guia_Maestra_Fundamentos_de_Python_Zedmous.pdf`](./docs/Guia_Maestra_Fundamentos_de_Python_Zedmous.pdf) | [Ver en línea en `zedmous.netlify.app`](https://zedmous.netlify.app/assets/docs/guia_fundamentos_python_zedmous.pdf)
+> **Guía Oficial en PDF (9 Páginas en Google Drive):** [Abrir Guía Maestra de Fundamentos de Python (PDF)](https://drive.google.com/file/d/18L2RzAb22b1VBQu9TDvrlgQTWaFVlMyq/view?usp=sharing)
 
 ---
 
@@ -19,7 +15,7 @@
 
 | Archivo / Carpeta | Descripción |
 | :--- | :--- |
-| [`docs/Guia_Maestra_Fundamentos_de_Python_Zedmous.pdf`](./docs/Guia_Maestra_Fundamentos_de_Python_Zedmous.pdf) | **Guía Maestra Oficial en PDF (9 Páginas):** las 8 unidades completas, tablas técnicas, 12 ejercicios resueltos y POO. |
+| [Guía Maestra en PDF (Google Drive)](https://drive.google.com/file/d/18L2RzAb22b1VBQu9TDvrlgQTWaFVlMyq/view?usp=sharing) | **Guía Maestra Oficial en PDF (9 Páginas):** las 8 unidades completas, tablas técnicas, 12 ejercicios resueltos y POO. |
 | [`app.py`](./app.py) | Script ejecutable que demuestra en consola las **8 Unidades del curso** (`python app.py`). |
 | [`unidades/laboratorio_condicionales.py`](./unidades/laboratorio_condicionales.py) | Los **5 Ejercicios Prácticos Resueltos** de estructuras condicionales (`if`, `elif`, `else`). |
 | [`unidades/laboratorio_bucles.py`](./unidades/laboratorio_bucles.py) | Los **7 Ejercicios Prácticos Resueltos** de estructuras repetitivas (`while` y `for`). |

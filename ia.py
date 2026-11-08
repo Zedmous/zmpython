@@ -51,3 +51,4 @@ print("\n=== Resultados del Modelo Aprendido vs. Ecuación Real (2*x - 3*z + 5) 
 print(f"  Peso aprendido w1 (esperado  2.0): {weights[0, 0]:.4f}")
 print(f"  Peso aprendido w2 (esperado -3.0): {weights[1, 0]:.4f}")
 print(f"  Sesgo aprendido b (esperado  5.0): {biases[0]:.4f}")
+
