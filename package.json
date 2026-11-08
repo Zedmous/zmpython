@@ -1,15 +1,28 @@
 {
   "name": "zmpython",
-  "version": "1.0.0",
-  "description": "",
+  "version": "2.0.0",
+  "description": "Guía Maestra, Laboratorios Resueltos (8 Unidades) e Introducción a Ciencia de Datos e IA con Python — ZEDMOUS.DEV (UPP IUJO)",
   "main": "app.py",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zedmous/zmpython.git"
+  },
   "scripts": {
     "start": "python app.py",
+    "demo": "python app.py --demo",
     "ia": "python ia.py",
     "ds": "python ds.py"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "python",
+    "algoritmos",
+    "poo",
+    "estructuras-de-datos",
+    "data-science",
+    "zedmous",
+    "iujo"
+  ],
+  "author": "Ing. Eduardo Nieves (Zedmous) <https://zedmous.netlify.app>",
+  "license": "MIT",
   "type": "commonjs"
 }

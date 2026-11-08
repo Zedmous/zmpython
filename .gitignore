@@ -1,1 +1,16 @@
-package-lock.json
+# Entornos virtuales de Python
+.venv/
+venv/
+env/
+
+# Caché de bytecode de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Dependencias de Node / artefactos del sistema
+node_modules/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
